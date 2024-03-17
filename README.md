@@ -1,6 +1,6 @@
 # Design Patterns
 
-👋 Welcome to the Design Patte  rns repository! This repository contains explanations and examples of common software design patterns. Whether you're a beginner or an experienced developer, understanding design patterns can greatly enhance your ability to design robust and maintainable software systems.
+👋 Welcome to the Design Patterns repository! This repository contains explanations and examples of common software design patterns. Whether you're a beginner or an experienced developer, understanding design patterns can greatly enhance your ability to design robust and maintainable software systems.
 
 ## What are Design Patterns? 🤔
 
