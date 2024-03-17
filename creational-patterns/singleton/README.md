@@ -33,4 +33,4 @@ This repository provides example implementations of the Builder Pattern in vario
 
 - [Python](./python-example.py)
 
-Feel free to explore the code and experiment with it
+Feel free to explore the code and experiment with it.
