@@ -33,7 +33,7 @@ The Factory Method typically consists of the following components:
 3. **Creator**: Declares the factory method, which returns an object of type Product. This may also define a default implementation of the factory method that returns a default Concrete Product.
 4. **Concrete Creator**: Overrides the factory method to return an instance of a specific Concrete Product.
 
-## Example Code
+## Example Code 🧑‍💻
 
 This repository provides example implementations of the Builder Pattern in various programming languages, including:
 

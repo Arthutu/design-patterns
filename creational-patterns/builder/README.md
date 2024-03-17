@@ -1,4 +1,4 @@
-# Builder 🧩
+# Builder Pattern 🧩
 
 Welcome to the Builder section of the Design Patterns repository! This directory contains an explanation of the Builder design pattern along with a code example in Python.
 
@@ -14,7 +14,7 @@ Imagine a software application that needs to construct complex objects, such as 
 
 The Builder Pattern solves this problem by defining an abstract Builder interface that specifies methods for constructing each part of the complex object. Concrete Builder implementations provide different construction algorithms for building different variations of the object. A Director class coordinates the construction process using a Builder, allowing the client code to create objects without needing to know the specifics of their construction.
 
-## When to Use the Builder Pattern
+## When to Use the Builder Pattern 💡
 
 Consider using the Builder Pattern in the following situations:
 
@@ -22,7 +22,7 @@ Consider using the Builder Pattern in the following situations:
 - When the construction process involves multiple steps and can vary based on specific requirements.
 - When you want to avoid telescoping constructors or large numbers of constructor parameters.
 
-## Structure of the Builder Pattern
+## Structure of the Builder Pattern 🗂️
 
 The Builder Pattern typically consists of the following components:
 
@@ -31,7 +31,7 @@ The Builder Pattern typically consists of the following components:
 3. **Director**: Coordinates the construction process using a Builder.
 4. **Product**: Represents the complex object being constructed.
 
-## Example Code
+## Example Code 🧑‍💻
 
 This repository provides example implementations of the Builder Pattern in various programming languages, including:
 

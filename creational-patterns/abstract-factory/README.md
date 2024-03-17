@@ -22,7 +22,7 @@ Consider using the Abstract Factory Pattern in the following situations:
 - When a system should be configured with one of multiple families of objects.
 - When a family of related product objects is designed to be used together and ensuring that they are compatible.
 
-## Structure of the Abstract Factory Pattern
+## Structure of the Abstract Factory Pattern 🗂️
 
 The Abstract Factory Pattern typically consists of the following components:
 
@@ -31,7 +31,7 @@ The Abstract Factory Pattern typically consists of the following components:
 3. **Abstract Product**: Declares an interface for a type of product object.
 4. **Concrete Product**: Implements the Abstract Product interface to define a product object.
 
-## Example Code
+## Example Code 🧑‍💻
 
 This repository provides example implementations of the Builder Pattern in various programming languages, including:
 
