@@ -1,6 +1,6 @@
 # Abstract Factory Pattern 🏭
 
-Welcome to the Abstract Factory Pattern section of the Design Patterns repository! This directory contains an explanation of the Abstract Factory design pattern along with code examples in python.
+Welcome to the Abstract Factory Pattern section of the Design Patterns repository! This directory contains an explanation of the Abstract Factory design pattern along with a code example in Python.
 
 ## What is the Abstract Factory Pattern? 🤔
 
@@ -33,4 +33,8 @@ The Abstract Factory Pattern typically consists of the following components:
 
 ## Example Code
 
-This repository provides example implementations of the Abstract Factory Pattern in [python](./python_examply.py). Feel free to explore the code and experiment with it.
+This repository provides example implementations of the Builder Pattern in various programming languages, including:
+
+- [Python](./python-example.py)
+
+Feel free to explore the code and experiment with it.

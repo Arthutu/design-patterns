@@ -1,6 +1,6 @@
 # Factory Method 🏭
 
-Welcome to the Factory Method section of the Design Patterns repository! This directory contains an explanation of the Factory Method design pattern along with code examples in python.
+Welcome to the Factory Method section of the Design Patterns repository! This directory contains an explanation of the Factory Method design pattern with a code example in Python.
 
 ## What is the Factory Method? 🤔
 
@@ -33,6 +33,10 @@ The Factory Method typically consists of the following components:
 3. **Creator**: Declares the factory method, which returns an object of type Product. This may also define a default implementation of the factory method that returns a default Concrete Product.
 4. **Concrete Creator**: Overrides the factory method to return an instance of a specific Concrete Product.
 
-## Example Code 🧑‍💻
+## Example Code
 
-This repository provides example implementations of the Factory Method in [python](./python-example.py). Feel free to explore the code and experiment with it.
+This repository provides example implementations of the Builder Pattern in various programming languages, including:
+
+- [Python](./python-example.py)
+
+Feel free to explore the code and experiment with it.
