@@ -8,7 +8,7 @@ The Proxy Pattern is a structural design pattern that provides a surrogate or pl
 
 ### 1. Problem ❌
 
-In a software application, there are often scenarios where you need to control access to an object or add additional behavior to it. However, modifying the object directly may not be feasible or desirable, especially if it is part of a third-party library or framework. Additionally, modifying the object's code may introduce unwanted side effects or violate the open/closed principle.
+In a software application, there are often scenarios where you need to control access to an object or add additional behavior to it. However, modifying the object directly may not be feasible or desirable, especially if it is part of a third-party library or framework. Additionally, modifying the object's code may introduce unwanted side effects or violate the [open/closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle).
 
 ### 2. Solution ✅
 
